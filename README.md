@@ -9,6 +9,7 @@ This program will be able to identify suspicious news posted on social media pla
 - allows users to become more knowledgable of surroundings and also just increase their knowledge with truthful information.
 
 ## Tech Stack 
+- python programming using VS Code 
 
 ## Features 
 - be able to pick up any suspicous news using machine learning techniques.
