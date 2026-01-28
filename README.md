@@ -17,3 +17,5 @@ This program will be able to identify suspicious news posted on social media pla
 
 ## Features 
 - be able to pick up any suspicous news using machine learning techniques.
+- it is able to do this by check over-exaggerated key words in articles.
+- 
